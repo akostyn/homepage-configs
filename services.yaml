@@ -12,19 +12,19 @@
 
 - Infrastructure:
   - Nomad:
-    icon: https://effectual.ai/wp-content/uploads/HashiCorp_Nomad.webp
-    href: http://10.0.1.172:4646
-    description: "Automated workload orchestration"
+      icon: https://effectual.ai/wp-content/uploads/HashiCorp_Nomad.webp
+      href: http://10.0.1.172:4646
+      description: "Automated workload orchestration"
   - ESXi:
-    icon: https://blogs.vmware.com/code/files/2024/04/Screenshot-2024-04-05-at-16.12.42-367x324.png
-    href: https://esxi.local.kostyn.com/
-    description: "VM Hosting"
+      icon: https://blogs.vmware.com/code/files/2024/04/Screenshot-2024-04-05-at-16.12.42-367x324.png
+      href: https://esxi.local.kostyn.com/
+      description: "VM Hosting"
   - PiHole:
-    icon: https://upload.wikimedia.org/wikipedia/commons/0/00/Pi-hole_Logo.png?20180925041558
-    href: http://10.0.1.3/admin/login.php
-    description: "Local DNS"
+      icon: https://upload.wikimedia.org/wikipedia/commons/0/00/Pi-hole_Logo.png?20180925041558
+      href: http://10.0.1.3/admin/login.php
+      description: "Local DNS"
   - Unifi:
-    icon: https://www.logo.wine/a/logo/Ubiquiti_Networks/Ubiquiti_Networks-Logo.wine.svg
-    href: https://unifi.ui.com/
-    description: "UDMPro Network"
+      icon: https://www.logo.wine/a/logo/Ubiquiti_Networks/Ubiquiti_Networks-Logo.wine.svg
+      href: https://unifi.ui.com/
+      description: "UDMPro Network"
     
