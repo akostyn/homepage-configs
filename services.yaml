@@ -1,0 +1,11 @@
+---
+# Reference: https://gethomepage.dev/configs/services/
+- Networking:
+  - NGinx Proxy:
+    icon: https://nginxproxymanager.com/logo.svg
+    href: http://10.0.1.130:81/
+    description: "Local Admin panel for internal HTTP Ingress."
+
+- Group B:
+  - Service D:
+    href: http://localhost/
