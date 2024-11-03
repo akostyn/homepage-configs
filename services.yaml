@@ -9,10 +9,6 @@
       icon: https://cf-assets.www.cloudflare.com/slt3lc6tev37/fdh7MDcUlyADCr49kuUs2/5f780ced9677a05d52b05605be88bc6f/cf-logo-v-rgb.png
       href: https://dash.cloudflare.com/login
       description: "DNS for pubilc sites and redirects"
-  - Nomad:
-      icon: https://effectual.ai/wp-content/uploads/HashiCorp_Nomad.webp
-      href: http://10.0.1.172:4646
-      description: "Automated workload orchestration"
 
 - Infrastructure:
   - Nomad:
