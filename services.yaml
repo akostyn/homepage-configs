@@ -27,4 +27,7 @@
       icon: https://blogs.vmware.com/code/files/2024/04/Screenshot-2024-04-05-at-16.12.42-367x324.png
       href: https://esxi.local.kostyn.com/
       description: "VM Hosting"
-    
+- NAS:
+      icon: https://user-images.githubusercontent.com/102435122/211210179-4f6032d9-3668-4347-b6f3-a753a2996af8.png
+      href: https://nas.local.kostyn.com/#/signin
+      description: "Local NAS"
