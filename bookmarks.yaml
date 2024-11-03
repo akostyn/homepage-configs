@@ -9,8 +9,9 @@
 
 - Social:
   - Reddit:
-    - abbr: RE
+    - icon: reddit.png
       href: https://reddit.com/
+      description: The front page of the internet
 
 - Entertainment:
   - YouTube:
