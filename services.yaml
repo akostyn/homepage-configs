@@ -5,6 +5,10 @@
       icon: https://nginxproxymanager.com/logo.svg
       href: http://10.0.1.130:81/
       description: "Local Admin panel for internal HTTP Ingress."
+  - CloudFlare:
+      icon: https://cf-assets.www.cloudflare.com/slt3lc6tev37/fdh7MDcUlyADCr49kuUs2/5f780ced9677a05d52b05605be88bc6f/cf-logo-v-rgb.png
+      href: https://dash.cloudflare.com/login
+      description: "DNS for pubilc sites and redirects"
 
 - Group B:
   - Service D:
